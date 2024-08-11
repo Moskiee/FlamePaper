@@ -1,4 +1,4 @@
-# FlamePaper
+# FlamePaper!
 
 
 FlamePaper is a [Paper](https://github.com/PaperMC/Paper/tree/ver/1.8.8) modification to fix exploits and improve performance. Paper is a fork of the well-known [Spigot](https://hub.spigotmc.org/stash/projects/SPIGOT) server.
